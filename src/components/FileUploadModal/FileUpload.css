@@ -1,0 +1,21 @@
+.custom-label-input{
+    cursor: pointer;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
+.custom-input{
+    display: none;
+}
+.upload-btn {
+    font-size: 14px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #7460ff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 12px;
+    cursor: pointer;
+  }
